@@ -1,0 +1,29 @@
+{
+  "name": "qrcode-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "dev": "next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusGalote/qrcode-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusGalote/qrcode-gen/issues"
+  },
+  "homepage": "https://github.com/gusGalote/qrcode-gen#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "qrcode-svg": "^1.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
